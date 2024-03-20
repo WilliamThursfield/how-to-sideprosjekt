@@ -7,9 +7,10 @@ export default function Home() {
       <p className="text-3xl">
         Jeg går datasikkerhet på Universitetet i Bergen. 
         En ting som aldri slår feil: 
-      <p>1: Utepils
-        2: Øl med gutta
-        3: Øl generelt</p>
+      <p>1: Utepils</p>
+      <p>2: Øl med gutta</p>
+      <p>3: Øl generelt</p>
+      
       </p>
     </div>
   );
