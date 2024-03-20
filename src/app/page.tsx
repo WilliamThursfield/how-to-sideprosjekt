@@ -1,7 +1,7 @@
 export default function Home() {
   return (
-    <div>
-      <h1>
+    <div> className="text-center"
+      <h1>className="text-2xl
         Velkommen til {'"'}William sin nettside{'"'}
       </h1>
       <p>
